@@ -1,7 +1,7 @@
-###Hi there, I'm Lev 💎
-___
+### Hi there, I'm Lev💎
+✨
 <img src='https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif'/>
-___
+✨
 ### :hammer_and_wrench:  My tech stack:
 ##### ` Base: `
 ![HTML](https://img.shields.io/badge/HTML-323630?style=for-the-badge&logo=HTML5&logoColor=FF0000)
@@ -38,7 +38,7 @@ ___
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-323630?style=for-the-badge&logo=tailwind-css&logoColor=#06B6D4)
 ![Jest](https://img.shields.io/badge/Jest-323630?style=for-the-badge&logo=Jest&logoColor=C21325)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-Matsul&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lev-odintsov&layout=compact&theme=tokyonight)
 ___
 <!--
 **lev-odintsov/lev-odintsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
